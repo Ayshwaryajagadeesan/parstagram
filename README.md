@@ -48,4 +48,5 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 <img src='https://github.com/icejag/parstagram/blob/master/parstagram2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
